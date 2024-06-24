@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  text-align: center
+}
+
+label {
+  font-size: 24px;
+}
+
+input {
+  font-size: 20px;
+  padding: 3px;
+  padding-left: 6px;
+}
+
+div {
+  margin: 15px 0px;
+}
+
+.error{
+  color: red;
+}
